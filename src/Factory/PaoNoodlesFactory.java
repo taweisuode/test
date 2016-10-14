@@ -1,6 +1,7 @@
-import INoodles.INoodles;
-import INoodles.INoodlesFactory;
-import Noodles.PaoNoodles;
+package Factory;
+import Factory.INoodles;
+import Factory.INoodlesFactory;
+import Factory.PaoNoodles;
 	
 public class PaoNoodlesFactory extends INoodlesFactory{
 	public INoodles create() {

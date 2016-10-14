@@ -1,6 +1,6 @@
 package Strategy;
 
-public class EightPriceStrategy extends CalePriceStratigy {
+public class EightPriceStrategy extends CalePriceStrategy {
 
 	@Override
 	public double calePrice(double price) {

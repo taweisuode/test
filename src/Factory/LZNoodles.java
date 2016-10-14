@@ -1,6 +1,4 @@
-package Noodles;
-
-import INoodles.INoodles;
+package Factory;
 
 public class LZNoodles extends INoodles{
 

@@ -7,6 +7,5 @@ public class Client {
 		subject1.attach(observer);
 		subject1.attach(new TwoObserver());
 		subject1.dosomething();
-		
 	}
 }

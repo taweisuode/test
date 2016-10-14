@@ -1,6 +1,4 @@
-package INoodles;
-
-import Noodles.LZNoodles;
+package Factory;
 
 public class LZNoodlesFactory extends INoodlesFactory{
 	@Override

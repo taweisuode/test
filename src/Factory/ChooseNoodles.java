@@ -1,10 +1,4 @@
-package Noodles;
-
-import INoodles.INoodles;
-import INoodles.INoodlesFactory;
-import INoodles.LZNoodlesFactory;
-import INoodles.NoodlesFactory;
-import INoodles.PaoNoodlesFactory;
+package Factory;
 
 public class ChooseNoodles {
 	public static void main(String[] args) {

@@ -1,8 +1,4 @@
-package INoodles;
-
-import Noodles.BanNoodles;
-import Noodles.LZNoodles;
-import Noodles.PaoNoodles;
+package Factory;
 
 public class NoodlesFactory {
 	private static final int LZ = 1;
